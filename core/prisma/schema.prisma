@@ -1,0 +1,70 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id          Int          @id @default(autoincrement()) // Primary key with auto-increment
+  email       String       @unique // Email should be unique
+  password    String // Password field, should be hashed before saving to DB
+  firstName   String // User's first name
+  lastName    String // User's last name
+  lng         Float
+  lat         Float
+  userType    String?
+  createdAt   DateTime     @default(now()) // Timestamp of user creation   
+  updatedAt   DateTime     @updatedAt // Timestamp of last update
+  apointments Apointment[]
+}
+
+model Doctor {
+  id          Int          @id @default(autoincrement()) // Primary key with auto-increment
+  name        String // User's last name
+  email       String       @unique // Email should be unique
+  password    String // Password field, should be hashed before saving to DB
+  position    String // User's first name
+  address     String // User's last name
+  contact     String
+  userType    String?
+  lng         Float
+  lat         Float
+  description String?      @db.Text
+  createdAt   DateTime     @default(now()) // Timestamp of user creation
+  updatedAt   DateTime     @updatedAt // Timestamp of last update
+  apointments Apointment[]
+}
+
+model File {
+  id       Int     @id @default(autoincrement())
+  fileName String?
+  fileUrl  String
+}
+
+model Apointment {
+  id       Int      @id @default(autoincrement())
+  name     String
+  contact  String
+  dateTime DateTime
+  status   String
+  Doctor   Doctor?  @relation(fields: [doctorId], references: [id])
+  doctorId Int?
+  User     User?    @relation(fields: [userId], references: [id])
+  userId   Int?
+}
+
+//  nearst doctor
+
+//doctor apointment
+// accept or reject
+
+//audio prediction  

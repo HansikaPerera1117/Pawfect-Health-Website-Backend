@@ -1,0 +1,1001 @@
+Breed,Age (years),Weight (kg),Gender,Spayed/Neutered,Vaccination Status,Fever,Eating Normally,Lethargy,Vomiting,Coughing/Sneezing,Breathing Issue,Rash/Swelling,Wounds/Cuts,Hair Loss,Excessive Scratching,Red/Watery Eyes,Eye Discharge,Ear Odor,Shakes Head,Eating Less,Excessive Drinking,Abnormal Stools,Aggressive/Irritable,Avoiding Interaction,Pacing/Whining,Pain Symptoms,Food Changes,Exposure to Sick Dogs,Predicted Sickness
+Saint Bernard,3,46.6,Female,Yes,Up to date,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,Gastrointestinal Infection
+Great Dane,5,55.3,Male,No,Not up to date,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Respiratory Infection
+Doberman Pinscher,13,55.5,Male,No,Up to date,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Respiratory Infection
+Belgian Malinois,0,50.6,Female,No,Up to date,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Skin Allergy
+Great Pyrenees,8,50.0,Female,No,Up to date,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Skin Allergy
+Mastiff,6,58.0,Male,No,Up to date,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Ear Infection
+Yorkshire Terrier,8,2.6,Male,No,Not up to date,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Gastrointestinal Infection
+Staffordshire Bull Terrier,3,18.9,Female,No,Up to date,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Respiratory Infection
+Shetland Sheepdog,15,17.1,Male,No,Up to date,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Gastrointestinal Infection
+Siberian Husky,9,31.1,Female,No,Up to date,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Ear Infection
+Akita,11,34.3,Female,Yes,Not up to date,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Healthy
+Siberian Husky,2,30.8,Male,Yes,Up to date,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Gastrointestinal Infection
+Great Pyrenees,5,32.7,Male,Yes,Up to date,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Gastrointestinal Infection
+Beagle,5,14.0,Male,No,Not up to date,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Healthy
+Akita,1,48.9,Female,No,Up to date,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Gastrointestinal Infection
+Yorkshire Terrier,5,3.2,Male,Yes,Up to date,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Gastrointestinal Infection
+Rottweiler,11,47.3,Female,No,Not up to date,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Gastrointestinal Infection
+Rottweiler,5,34.7,Female,Yes,Not up to date,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Respiratory Infection
+Shih Tzu,8,5.2,Female,Yes,Not up to date,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Gastrointestinal Infection
+Dachshund,11,3.2,Female,Yes,Up to date,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Respiratory Infection
+Border Collie,2,11.3,Male,Yes,Up to date,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Ear Infection
+Great Pyrenees,10,44.4,Male,No,Not up to date,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Gastrointestinal Infection
+Toy Poodle,11,6.4,Male,No,Up to date,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Healthy
+Rottweiler,2,39.6,Male,Yes,Not up to date,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Gastrointestinal Infection
+Staffordshire Bull Terrier,14,22.9,Female,No,Not up to date,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Heart Disease
+Saint Bernard,8,57.8,Female,No,Up to date,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Gastrointestinal Infection
+Great Dane,5,29.5,Female,Yes,Up to date,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Gastrointestinal Infection
+Great Pyrenees,9,53.6,Female,Yes,Not up to date,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Parvovirus
+Australian Shepherd,2,9.4,Female,Yes,Not up to date,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Skin Allergy
+Belgian Malinois,8,42.2,Female,Yes,Up to date,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Gastrointestinal Infection
+Great Dane,14,32.1,Male,No,Not up to date,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Skin Allergy
+Cocker Spaniel,13,19.2,Male,Yes,Up to date,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,Skin Allergy
+Chihuahua,10,6.1,Male,Yes,Not up to date,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Skin Allergy
+Staffordshire Bull Terrier,0,24.5,Female,Yes,Not up to date,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,Arthritis
+Toy Poodle,3,5.1,Female,No,Up to date,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Skin Allergy
+Rottweiler,12,38.3,Male,No,Not up to date,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Gastrointestinal Infection
+Corgi,6,18.8,Male,No,Up to date,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Gastrointestinal Infection
+Australian Shepherd,3,20.8,Female,No,Up to date,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Ear Infection
+Yorkshire Terrier,8,3.7,Female,No,Not up to date,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Skin Allergy
+Doberman Pinscher,0,40.9,Male,No,Up to date,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Gastrointestinal Infection
+Beagle,13,17.1,Male,No,Not up to date,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Respiratory Infection
+Shetland Sheepdog,3,21.8,Male,No,Not up to date,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Ear Infection
+Great Pyrenees,7,58.8,Male,Yes,Up to date,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Parvovirus
+Great Pyrenees,14,31.7,Male,Yes,Up to date,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Gastrointestinal Infection
+Mastiff,8,28.7,Male,No,Up to date,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Yes,Kennel Cough
+Irish Wolfhound,6,49.3,Male,Yes,Not up to date,No,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Respiratory Infection
+Akita,13,47.5,Male,No,Up to date,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Ear Infection
+Chihuahua,12,6.8,Male,Yes,Not up to date,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Gastrointestinal Infection
+Great Dane,1,54.1,Male,No,Up to date,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Gastrointestinal Infection
+Boxer,5,36.0,Female,Yes,Up to date,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Parvovirus
+Saint Bernard,14,58.7,Male,No,Not up to date,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Skin Allergy
+Rottweiler,11,36.2,Male,Yes,Up to date,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Gastrointestinal Infection
+Chihuahua,0,3.8,Male,Yes,Not up to date,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Ear Infection
+Yorkshire Terrier,3,5.8,Male,No,Not up to date,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Parvovirus
+Belgian Malinois,0,43.8,Male,Yes,Up to date,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Gastrointestinal Infection
+Bernese Mountain Dog,9,32.7,Female,Yes,Up to date,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Gastrointestinal Infection
+Staffordshire Bull Terrier,6,22.3,Male,No,Up to date,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Skin Allergy
+Toy Poodle,10,3.3,Male,No,Not up to date,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Diabetes
+Irish Wolfhound,11,38.9,Male,No,Up to date,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Respiratory Infection
+Bulldog,6,24.8,Female,Yes,Up to date,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Respiratory Infection
+Border Collie,4,17.2,Male,No,Up to date,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Respiratory Infection
+Irish Wolfhound,7,59.4,Female,Yes,Not up to date,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Ear Infection
+Tibetan Mastiff,7,45.5,Male,Yes,Up to date,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Respiratory Infection
+Bernese Mountain Dog,5,40.8,Male,Yes,Not up to date,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Gastrointestinal Infection
+Bulldog,9,24.0,Female,No,Not up to date,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Skin Allergy
+Toy Poodle,14,6.6,Female,Yes,Up to date,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Gastrointestinal Infection
+Yorkshire Terrier,6,6.6,Female,No,Not up to date,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Heart Disease
+Mastiff,2,50.4,Male,No,Not up to date,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Respiratory Infection
+Bulldog,13,17.1,Male,No,Not up to date,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Diabetes
+Dachshund,2,2.6,Female,No,Not up to date,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Gastrointestinal Infection
+Australian Shepherd,6,23.1,Male,Yes,Up to date,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Diabetes
+Saint Bernard,5,44.3,Female,Yes,Not up to date,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Respiratory Infection
+German Shepherd,12,39.7,Male,No,Not up to date,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Worm Infestation
+Tibetan Mastiff,9,56.9,Female,No,Up to date,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Respiratory Infection
+Great Dane,4,36.8,Female,No,Up to date,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Ear Infection
+Tibetan Mastiff,15,39.8,Male,No,Not up to date,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,Respiratory Infection
+Shetland Sheepdog,15,10.8,Male,No,Up to date,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Gastrointestinal Infection
+Irish Wolfhound,4,48.3,Female,Yes,Not up to date,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Skin Allergy
+Alaskan Malamute,6,44.4,Male,Yes,Not up to date,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Ear Infection
+Saint Bernard,12,52.4,Male,No,Up to date,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Skin Allergy
+Mastiff,9,34.3,Female,No,Up to date,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Respiratory Infection
+Leonberger,9,44.8,Male,No,Up to date,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Respiratory Infection
+Australian Shepherd,5,10.7,Male,No,Not up to date,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Heart Disease
+Belgian Malinois,13,53.7,Female,No,Not up to date,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Respiratory Infection
+Yorkshire Terrier,2,3.1,Female,Yes,Up to date,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Arthritis
+Australian Shepherd,5,19.0,Female,Yes,Up to date,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Diabetes
+Toy Poodle,2,5.6,Female,No,Not up to date,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Respiratory Infection
+Corgi,3,21.3,Female,Yes,Not up to date,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Heart Disease
+Bulldog,2,12.2,Female,No,Up to date,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Gastrointestinal Infection
+Yorkshire Terrier,5,6.8,Male,Yes,Not up to date,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Respiratory Infection
+Mastiff,12,32.8,Female,No,Not up to date,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Respiratory Infection
+Bernese Mountain Dog,13,57.6,Female,No,Not up to date,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Ear Infection
+Bernese Mountain Dog,15,40.4,Female,Yes,Up to date,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Respiratory Infection
+Bulldog,3,9.1,Male,Yes,Up to date,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Arthritis
+Yorkshire Terrier,0,5.6,Female,No,Up to date,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Respiratory Infection
+Great Dane,13,58.5,Female,No,Not up to date,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Respiratory Infection
+Irish Wolfhound,11,30.7,Male,No,Not up to date,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Ear Infection
+Labrador Retriever,7,39.9,Female,No,Not up to date,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,Skin Allergy
+Tibetan Mastiff,9,39.6,Male,No,Up to date,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Skin Allergy
+Toy Poodle,12,4.7,Male,Yes,Up to date,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Respiratory Infection
+Beagle,1,10.5,Female,No,Not up to date,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Ear Infection
+Alaskan Malamute,14,32.1,Female,Yes,Not up to date,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Parvovirus
+Belgian Malinois,2,30.7,Female,Yes,Up to date,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Skin Allergy
+Cocker Spaniel,6,23.9,Male,No,Up to date,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Respiratory Infection
+Irish Wolfhound,0,50.0,Female,Yes,Not up to date,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Respiratory Infection
+German Shepherd,15,35.8,Male,No,Not up to date,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Diabetes
+Boxer,0,48.6,Male,No,Not up to date,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Ear Infection
+Shetland Sheepdog,11,20.8,Male,No,Up to date,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Parvovirus
+Doberman Pinscher,9,43.6,Male,Yes,Up to date,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,Ear Infection
+Alaskan Malamute,12,27.9,Male,No,Up to date,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Ear Infection
+Leonberger,14,52.1,Female,No,Not up to date,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Gastrointestinal Infection
+Leonberger,15,46.9,Male,Yes,Up to date,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Parvovirus
+Shetland Sheepdog,0,14.8,Female,Yes,Up to date,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Diabetes
+Bernese Mountain Dog,10,29.6,Male,Yes,Up to date,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Respiratory Infection
+Rottweiler,13,39.9,Male,Yes,Up to date,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Skin Allergy
+Mastiff,4,49.8,Male,Yes,Not up to date,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Gastrointestinal Infection
+Tibetan Mastiff,12,54.2,Male,Yes,Up to date,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Heart Disease
+Staffordshire Bull Terrier,10,11.9,Female,Yes,Not up to date,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Respiratory Infection
+Siberian Husky,15,59.0,Male,No,Not up to date,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Kennel Cough
+Saint Bernard,13,50.9,Male,Yes,Not up to date,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Worm Infestation
+Doberman Pinscher,14,26.4,Female,No,Not up to date,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Respiratory Infection
+Belgian Malinois,0,29.3,Male,Yes,Not up to date,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Gastrointestinal Infection
+Yorkshire Terrier,9,5.3,Female,No,Not up to date,No,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Skin Allergy
+Dachshund,12,6.5,Female,No,Not up to date,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Arthritis
+Australian Shepherd,15,12.6,Female,Yes,Not up to date,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Ear Infection
+Tibetan Mastiff,13,39.0,Male,No,Not up to date,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Ear Infection
+Australian Shepherd,6,10.0,Male,Yes,Not up to date,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Gastrointestinal Infection
+Shetland Sheepdog,12,23.9,Female,No,Up to date,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Gastrointestinal Infection
+Mastiff,9,54.9,Male,Yes,Up to date,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Ear Infection
+Labrador Retriever,7,58.6,Female,No,Up to date,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Skin Allergy
+Cocker Spaniel,15,13.3,Female,Yes,Not up to date,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Respiratory Infection
+Saint Bernard,7,40.3,Female,No,Not up to date,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Gastrointestinal Infection
+Bernese Mountain Dog,8,57.0,Male,No,Not up to date,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Respiratory Infection
+Yorkshire Terrier,8,6.9,Female,Yes,Not up to date,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Respiratory Infection
+Saint Bernard,13,28.0,Female,Yes,Up to date,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Gastrointestinal Infection
+German Shepherd,11,39.5,Female,Yes,Up to date,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Ear Infection
+Corgi,7,11.3,Female,No,Up to date,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Gastrointestinal Infection
+Tibetan Mastiff,12,45.2,Female,Yes,Not up to date,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Parvovirus
+Alaskan Malamute,8,43.9,Male,No,Not up to date,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Gastrointestinal Infection
+Yorkshire Terrier,2,3.4,Male,No,Not up to date,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Gastrointestinal Infection
+Alaskan Malamute,6,49.9,Male,Yes,Not up to date,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,Diabetes
+Labrador Retriever,5,38.8,Male,No,Not up to date,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Respiratory Infection
+Belgian Malinois,13,39.9,Male,Yes,Not up to date,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Skin Allergy
+German Shepherd,0,37.5,Male,No,Not up to date,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Gastrointestinal Infection
+Pomeranian,3,5.9,Female,No,Not up to date,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Respiratory Infection
+Yorkshire Terrier,6,6.2,Female,No,Not up to date,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Gastrointestinal Infection
+Saint Bernard,9,53.7,Male,No,Up to date,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Respiratory Infection
+Great Pyrenees,13,49.9,Female,No,Up to date,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Respiratory Infection
+Chihuahua,9,6.6,Female,No,Up to date,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Gastrointestinal Infection
+Australian Shepherd,2,14.2,Male,Yes,Up to date,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Gastrointestinal Infection
+Tibetan Mastiff,5,30.1,Male,Yes,Not up to date,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Skin Allergy
+Chihuahua,4,5.3,Female,No,Up to date,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,Skin Allergy
+Shetland Sheepdog,3,22.6,Female,Yes,Up to date,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,Gastrointestinal Infection
+Labrador Retriever,0,59.5,Female,Yes,Up to date,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Gastrointestinal Infection
+Rottweiler,7,33.0,Female,Yes,Up to date,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Gastrointestinal Infection
+Boxer,10,51.1,Female,No,Not up to date,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Arthritis
+Yorkshire Terrier,13,8.0,Male,No,Up to date,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Gastrointestinal Infection
+Australian Shepherd,12,15.5,Male,No,Not up to date,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Parvovirus
+Beagle,15,9.1,Female,Yes,Not up to date,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Respiratory Infection
+Bulldog,14,22.0,Male,No,Not up to date,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Gastrointestinal Infection
+Toy Poodle,15,7.0,Male,No,Up to date,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Ear Infection
+Akita,13,55.8,Female,No,Not up to date,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,Skin Allergy
+Siberian Husky,0,28.1,Female,Yes,Not up to date,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Skin Allergy
+Tibetan Mastiff,2,26.3,Male,Yes,Not up to date,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Healthy
+Maltese,4,5.8,Female,No,Up to date,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Skin Allergy
+Mastiff,12,54.8,Female,No,Up to date,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Gastrointestinal Infection
+Leonberger,4,33.5,Male,No,Not up to date,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Respiratory Infection
+Bulldog,13,24.4,Female,Yes,Not up to date,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Gastrointestinal Infection
+Great Dane,7,32.9,Female,No,Not up to date,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,Ear Infection
+Corgi,10,18.1,Male,No,Not up to date,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Arthritis
+Mastiff,11,59.6,Female,No,Up to date,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Respiratory Infection
+Doberman Pinscher,1,55.3,Male,No,Up to date,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Skin Allergy
+Rottweiler,12,52.9,Female,Yes,Up to date,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Gastrointestinal Infection
+Leonberger,0,47.0,Male,Yes,Not up to date,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Arthritis
+Bernese Mountain Dog,13,35.3,Male,Yes,Up to date,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Ear Infection
+Mastiff,1,42.7,Female,Yes,Up to date,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Ear Infection
+German Shepherd,1,30.4,Male,Yes,Up to date,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Skin Allergy
+Great Dane,12,28.6,Female,Yes,Up to date,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Gastrointestinal Infection
+Alaskan Malamute,11,54.7,Male,No,Not up to date,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Skin Allergy
+Labrador Retriever,5,31.4,Female,Yes,Up to date,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Gastrointestinal Infection
+Cocker Spaniel,8,17.8,Male,No,Up to date,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Respiratory Infection
+Shetland Sheepdog,12,20.1,Female,Yes,Not up to date,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Gastrointestinal Infection
+Irish Wolfhound,3,39.0,Male,Yes,Not up to date,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Respiratory Infection
+Shih Tzu,8,5.0,Male,Yes,Not up to date,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Respiratory Infection
+Irish Wolfhound,9,53.9,Male,No,Not up to date,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Gastrointestinal Infection
+Doberman Pinscher,15,38.9,Male,Yes,Up to date,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Respiratory Infection
+Australian Shepherd,13,18.9,Female,No,Not up to date,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Skin Allergy
+Leonberger,13,46.2,Male,Yes,Not up to date,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Worm Infestation
+Border Collie,11,14.9,Male,Yes,Up to date,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Gastrointestinal Infection
+Belgian Malinois,5,48.6,Female,No,Up to date,No,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Skin Allergy
+Great Dane,6,51.0,Male,Yes,Up to date,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Arthritis
+Yorkshire Terrier,13,4.6,Female,No,Up to date,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Respiratory Infection
+Tibetan Mastiff,6,57.5,Female,No,Up to date,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Skin Allergy
+Corgi,7,19.6,Male,Yes,Up to date,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Respiratory Infection
+Dachshund,12,2.5,Female,No,Not up to date,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,Respiratory Infection
+Mastiff,2,40.5,Male,Yes,Not up to date,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Gastrointestinal Infection
+Great Pyrenees,9,49.8,Female,Yes,Up to date,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Skin Allergy
+Great Dane,0,43.6,Female,No,Not up to date,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Ear Infection
+Doberman Pinscher,0,48.3,Female,No,Up to date,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Respiratory Infection
+Toy Poodle,5,6.2,Female,No,Up to date,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Ear Infection
+Cocker Spaniel,3,11.4,Female,No,Up to date,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Skin Allergy
+Rottweiler,11,55.5,Female,No,Not up to date,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Ear Infection
+Belgian Malinois,6,46.1,Female,No,Up to date,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Skin Allergy
+Tibetan Mastiff,1,46.9,Male,No,Up to date,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Respiratory Infection
+Cocker Spaniel,7,18.5,Male,No,Up to date,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Skin Allergy
+Leonberger,9,31.5,Female,Yes,Up to date,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Gastrointestinal Infection
+Chihuahua,3,6.4,Female,Yes,Up to date,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Respiratory Infection
+Bulldog,6,23.6,Male,Yes,Not up to date,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Parvovirus
+Tibetan Mastiff,9,50.2,Male,No,Up to date,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Ear Infection
+Doberman Pinscher,8,42.9,Female,No,Not up to date,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Respiratory Infection
+Mastiff,6,32.9,Female,Yes,Up to date,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,Skin Allergy
+Shih Tzu,11,3.6,Female,No,Up to date,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Gastrointestinal Infection
+Chihuahua,1,6.7,Male,No,Up to date,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Respiratory Infection
+Bulldog,6,19.2,Female,No,Up to date,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Ear Infection
+Staffordshire Bull Terrier,5,21.9,Male,No,Not up to date,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Gastrointestinal Infection
+Shetland Sheepdog,10,24.1,Female,No,Up to date,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Diabetes
+Great Pyrenees,15,31.6,Female,No,Up to date,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,Gastrointestinal Infection
+Irish Wolfhound,3,52.9,Female,No,Not up to date,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Respiratory Infection
+Dachshund,4,5.6,Female,Yes,Not up to date,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,Respiratory Infection
+Boxer,11,36.6,Male,Yes,Up to date,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Ear Infection
+Belgian Malinois,3,50.7,Female,No,Up to date,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Respiratory Infection
+Australian Shepherd,7,21.2,Male,Yes,Not up to date,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Gastrointestinal Infection
+Shih Tzu,8,4.1,Male,No,Not up to date,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Respiratory Infection
+Australian Shepherd,11,9.6,Female,No,Not up to date,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Skin Allergy
+Golden Retriever,8,38.9,Female,Yes,Up to date,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Diabetes
+Alaskan Malamute,10,49.3,Male,No,Up to date,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Gastrointestinal Infection
+Rottweiler,7,58.7,Female,No,Up to date,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Skin Allergy
+Shetland Sheepdog,12,14.5,Male,No,Not up to date,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,No,Gastrointestinal Infection
+Alaskan Malamute,14,38.4,Female,No,Not up to date,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Skin Allergy
+Corgi,12,24.3,Male,No,Up to date,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Gastrointestinal Infection
+Akita,9,44.8,Female,No,Up to date,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Ear Infection
+Leonberger,10,46.2,Female,Yes,Up to date,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Diabetes
+Cocker Spaniel,6,14.7,Male,No,Not up to date,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Respiratory Infection
+Chihuahua,15,7.6,Female,No,Up to date,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Ear Infection
+Great Dane,11,38.2,Male,Yes,Not up to date,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Ear Infection
+Saint Bernard,5,44.6,Female,No,Not up to date,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,Ear Infection
+Dachshund,4,3.4,Female,Yes,Up to date,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Healthy
+Siberian Husky,12,39.7,Male,No,Not up to date,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Gastrointestinal Infection
+Beagle,4,23.8,Female,Yes,Not up to date,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Respiratory Infection
+Doberman Pinscher,5,42.0,Female,Yes,Not up to date,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Respiratory Infection
+Doberman Pinscher,4,54.4,Male,Yes,Not up to date,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Respiratory Infection
+Boxer,10,44.7,Male,No,Not up to date,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Heart Disease
+Belgian Malinois,15,39.7,Male,Yes,Up to date,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Ear Infection
+Corgi,7,21.7,Male,No,Up to date,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Ear Infection
+Great Dane,13,54.1,Female,Yes,Up to date,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Skin Allergy
+Beagle,2,24.2,Female,Yes,Not up to date,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,Heart Disease
+Labrador Retriever,4,39.2,Female,No,Up to date,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Ear Infection
+Staffordshire Bull Terrier,3,9.7,Male,Yes,Up to date,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Gastrointestinal Infection
+Great Dane,7,35.8,Male,No,Not up to date,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Skin Allergy
+Border Collie,14,23.9,Female,No,Up to date,No,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Skin Allergy
+Dachshund,4,4.4,Female,No,Up to date,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Skin Allergy
+Toy Poodle,0,7.8,Male,Yes,Not up to date,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Skin Allergy
+Bernese Mountain Dog,12,47.1,Male,Yes,Up to date,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Gastrointestinal Infection
+Golden Retriever,2,33.8,Female,No,Up to date,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Ear Infection
+Toy Poodle,14,6.0,Male,Yes,Up to date,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Arthritis
+Cocker Spaniel,1,14.9,Male,No,Up to date,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,Respiratory Infection
+Irish Wolfhound,8,56.0,Female,Yes,Not up to date,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Gastrointestinal Infection
+Saint Bernard,12,46.4,Female,Yes,Up to date,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Respiratory Infection
+Rottweiler,0,35.2,Female,No,Up to date,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Gastrointestinal Infection
+Maltese,10,6.5,Female,No,Up to date,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Heart Disease
+Yorkshire Terrier,12,6.9,Female,No,Up to date,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Respiratory Infection
+Cocker Spaniel,5,10.2,Female,No,Up to date,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Arthritis
+Staffordshire Bull Terrier,1,9.9,Female,Yes,Up to date,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Ear Infection
+Golden Retriever,15,37.2,Female,No,Up to date,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Healthy
+Shih Tzu,11,4.2,Male,No,Not up to date,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Skin Allergy
+Alaskan Malamute,10,34.9,Male,No,Up to date,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,Gastrointestinal Infection
+Shih Tzu,4,7.8,Female,No,Up to date,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Kennel Cough
+Maltese,5,5.6,Male,No,Not up to date,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Respiratory Infection
+Maltese,2,7.4,Male,No,Up to date,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Gastrointestinal Infection
+Doberman Pinscher,2,34.5,Female,Yes,Up to date,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Gastrointestinal Infection
+Shetland Sheepdog,0,10.6,Female,No,Up to date,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Ear Infection
+Australian Shepherd,9,21.9,Female,Yes,Not up to date,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Skin Allergy
+Bulldog,15,14.3,Male,Yes,Not up to date,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Skin Allergy
+Staffordshire Bull Terrier,8,18.1,Male,No,Not up to date,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Respiratory Infection
+Tibetan Mastiff,3,45.3,Male,No,Up to date,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Gastrointestinal Infection
+German Shepherd,12,49.0,Male,Yes,Not up to date,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Gastrointestinal Infection
+Leonberger,7,53.8,Male,No,Not up to date,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Respiratory Infection
+Great Pyrenees,6,39.8,Male,Yes,Up to date,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Worm Infestation
+Chihuahua,2,4.3,Female,No,Up to date,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Gastrointestinal Infection
+Pomeranian,3,5.2,Female,No,Up to date,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Skin Allergy
+Rottweiler,2,57.6,Male,No,Not up to date,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Skin Allergy
+Yorkshire Terrier,7,5.3,Male,Yes,Not up to date,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Parvovirus
+German Shepherd,12,54.5,Female,Yes,Not up to date,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Skin Allergy
+Leonberger,1,42.8,Male,Yes,Up to date,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Skin Allergy
+Golden Retriever,3,42.1,Male,Yes,Up to date,No,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Respiratory Infection
+German Shepherd,13,28.2,Female,No,Up to date,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Kennel Cough
+Rottweiler,7,37.2,Female,Yes,Up to date,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Gastrointestinal Infection
+Leonberger,4,57.8,Female,Yes,Up to date,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Healthy
+Beagle,1,14.7,Female,Yes,Up to date,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Ear Infection
+Maltese,5,5.7,Male,No,Not up to date,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Gastrointestinal Infection
+Leonberger,0,51.6,Female,Yes,Up to date,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Healthy
+Staffordshire Bull Terrier,14,12.3,Female,No,Not up to date,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Gastrointestinal Infection
+Akita,6,33.1,Male,Yes,Up to date,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Gastrointestinal Infection
+Great Pyrenees,8,52.6,Female,No,Not up to date,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,Gastrointestinal Infection
+Staffordshire Bull Terrier,13,16.2,Male,Yes,Not up to date,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Gastrointestinal Infection
+Saint Bernard,6,38.5,Male,Yes,Not up to date,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Skin Allergy
+Alaskan Malamute,10,56.0,Male,No,Not up to date,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Skin Allergy
+Cocker Spaniel,13,10.3,Female,Yes,Up to date,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Gastrointestinal Infection
+Great Dane,7,47.3,Male,No,Up to date,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Skin Allergy
+Rottweiler,8,36.2,Female,Yes,Not up to date,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Skin Allergy
+Boxer,14,46.2,Male,No,Up to date,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Skin Allergy
+Maltese,13,2.9,Female,Yes,Up to date,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,Gastrointestinal Infection
+Pomeranian,7,3.1,Male,No,Not up to date,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Gastrointestinal Infection
+Border Collie,14,13.7,Male,Yes,Up to date,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Ear Infection
+Yorkshire Terrier,2,4.3,Male,No,Up to date,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Healthy
+Doberman Pinscher,5,58.5,Female,No,Up to date,No,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Skin Allergy
+Great Pyrenees,10,55.8,Male,Yes,Not up to date,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Respiratory Infection
+Chihuahua,15,7.0,Male,No,Up to date,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Gastrointestinal Infection
+Pomeranian,7,5.5,Male,Yes,Up to date,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Worm Infestation
+Staffordshire Bull Terrier,10,24.0,Male,No,Not up to date,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Ear Infection
+Leonberger,15,26.4,Male,No,Up to date,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Gastrointestinal Infection
+Chihuahua,5,4.1,Male,No,Not up to date,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Ear Infection
+Corgi,7,23.8,Female,Yes,Not up to date,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Respiratory Infection
+Tibetan Mastiff,1,58.4,Male,No,Up to date,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Gastrointestinal Infection
+Belgian Malinois,0,44.9,Female,Yes,Up to date,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Gastrointestinal Infection
+Saint Bernard,13,28.5,Male,Yes,Not up to date,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Gastrointestinal Infection
+Pomeranian,15,5.6,Female,No,Up to date,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Ear Infection
+Shetland Sheepdog,8,9.9,Female,No,Up to date,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Heart Disease
+Saint Bernard,3,53.9,Female,Yes,Not up to date,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Respiratory Infection
+Irish Wolfhound,15,28.9,Male,No,Not up to date,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Ear Infection
+Siberian Husky,13,43.8,Male,Yes,Up to date,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Skin Allergy
+Doberman Pinscher,10,44.1,Female,No,Not up to date,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Gastrointestinal Infection
+Tibetan Mastiff,12,40.5,Male,No,Up to date,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Ear Infection
+Great Dane,1,35.6,Male,Yes,Not up to date,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Gastrointestinal Infection
+Tibetan Mastiff,1,41.3,Female,No,Up to date,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Respiratory Infection
+Tibetan Mastiff,6,52.3,Male,No,Not up to date,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Kennel Cough
+Toy Poodle,12,4.2,Female,No,Not up to date,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Respiratory Infection
+Belgian Malinois,1,34.1,Female,Yes,Up to date,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Parvovirus
+Staffordshire Bull Terrier,4,9.0,Male,No,Not up to date,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Arthritis
+Akita,3,30.8,Male,Yes,Up to date,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Ear Infection
+Staffordshire Bull Terrier,15,18.7,Female,Yes,Up to date,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Gastrointestinal Infection
+Great Dane,14,51.4,Male,Yes,Not up to date,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Respiratory Infection
+Bulldog,8,21.0,Male,No,Up to date,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Respiratory Infection
+Bernese Mountain Dog,12,57.8,Female,Yes,Not up to date,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Healthy
+Alaskan Malamute,10,49.1,Female,Yes,Up to date,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Gastrointestinal Infection
+Boxer,2,47.0,Female,Yes,Up to date,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Gastrointestinal Infection
+Golden Retriever,14,39.0,Male,No,Not up to date,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Ear Infection
+Great Dane,10,28.9,Male,Yes,Not up to date,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,Skin Allergy
+Doberman Pinscher,5,52.0,Female,Yes,Not up to date,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Gastrointestinal Infection
+Bulldog,3,14.7,Male,No,Up to date,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Ear Infection
+Tibetan Mastiff,7,49.8,Female,Yes,Not up to date,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Skin Allergy
+Bernese Mountain Dog,10,55.5,Female,Yes,Not up to date,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Skin Allergy
+Labrador Retriever,7,27.8,Female,Yes,Not up to date,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Ear Infection
+Corgi,6,17.8,Female,Yes,Up to date,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Ear Infection
+Corgi,3,24.5,Male,No,Up to date,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Gastrointestinal Infection
+Irish Wolfhound,15,55.6,Male,Yes,Up to date,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Kennel Cough
+Rottweiler,9,33.0,Male,No,Not up to date,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Ear Infection
+German Shepherd,6,27.6,Male,No,Up to date,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Arthritis
+Boxer,1,57.0,Male,Yes,Up to date,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Ear Infection
+Yorkshire Terrier,6,3.6,Female,No,Up to date,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Respiratory Infection
+Corgi,13,11.4,Male,No,Up to date,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Respiratory Infection
+Toy Poodle,5,2.8,Female,Yes,Not up to date,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Gastrointestinal Infection
+Beagle,2,20.2,Female,No,Not up to date,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Healthy
+German Shepherd,11,31.5,Female,No,Up to date,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Parvovirus
+Australian Shepherd,0,20.7,Male,Yes,Not up to date,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Respiratory Infection
+Boxer,13,51.4,Male,No,Up to date,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Skin Allergy
+Rottweiler,0,46.4,Male,No,Not up to date,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Healthy
+Dachshund,1,6.6,Male,Yes,Not up to date,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Parvovirus
+Shetland Sheepdog,7,17.0,Male,Yes,Up to date,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Kennel Cough
+Saint Bernard,1,30.3,Male,Yes,Up to date,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Skin Allergy
+Shetland Sheepdog,2,19.2,Male,Yes,Up to date,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Respiratory Infection
+Shetland Sheepdog,4,23.7,Female,Yes,Not up to date,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Respiratory Infection
+Staffordshire Bull Terrier,14,12.8,Male,Yes,Up to date,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Skin Allergy
+Maltese,6,5.1,Male,Yes,Up to date,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Respiratory Infection
+Maltese,4,3.0,Female,Yes,Up to date,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Heart Disease
+Staffordshire Bull Terrier,5,12.9,Male,Yes,Up to date,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Respiratory Infection
+Siberian Husky,15,31.9,Female,No,Up to date,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Gastrointestinal Infection
+Bulldog,9,13.9,Male,Yes,Not up to date,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,Respiratory Infection
+Mastiff,2,53.4,Female,No,Up to date,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Parvovirus
+Shih Tzu,5,3.9,Male,No,Not up to date,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Skin Allergy
+Border Collie,10,18.5,Female,No,Not up to date,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Respiratory Infection
+Shih Tzu,9,6.1,Male,No,Not up to date,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Gastrointestinal Infection
+Dachshund,9,3.5,Male,No,Not up to date,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Gastrointestinal Infection
+Saint Bernard,5,36.3,Female,No,Up to date,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Gastrointestinal Infection
+Rottweiler,7,58.6,Male,Yes,Not up to date,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Kennel Cough
+Yorkshire Terrier,5,5.8,Male,No,Not up to date,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Heart Disease
+Border Collie,5,15.4,Female,Yes,Up to date,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Ear Infection
+Mastiff,13,44.8,Female,Yes,Up to date,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Skin Allergy
+Belgian Malinois,15,55.0,Male,Yes,Not up to date,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Gastrointestinal Infection
+Leonberger,5,58.4,Male,No,Not up to date,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Ear Infection
+Chihuahua,11,3.6,Female,Yes,Not up to date,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Heart Disease
+Toy Poodle,4,5.6,Female,Yes,Not up to date,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Gastrointestinal Infection
+Labrador Retriever,8,30.6,Male,No,Up to date,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Respiratory Infection
+Great Dane,0,36.9,Female,No,Not up to date,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Respiratory Infection
+Dachshund,12,4.9,Male,Yes,Not up to date,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Skin Allergy
+Alaskan Malamute,9,38.5,Female,Yes,Not up to date,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Respiratory Infection
+Maltese,11,7.7,Female,Yes,Not up to date,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Respiratory Infection
+Beagle,2,14.0,Male,No,Up to date,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Respiratory Infection
+Yorkshire Terrier,6,5.4,Male,Yes,Up to date,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Gastrointestinal Infection
+Doberman Pinscher,3,30.1,Male,No,Not up to date,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Gastrointestinal Infection
+Toy Poodle,14,5.4,Male,Yes,Up to date,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Gastrointestinal Infection
+Corgi,0,10.9,Female,Yes,Not up to date,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Ear Infection
+Great Pyrenees,6,27.7,Female,No,Not up to date,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Parvovirus
+Alaskan Malamute,1,41.3,Male,No,Up to date,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Healthy
+Doberman Pinscher,13,53.2,Male,Yes,Up to date,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Ear Infection
+Pomeranian,4,6.1,Female,Yes,Up to date,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Parvovirus
+Maltese,8,6.9,Female,No,Not up to date,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Gastrointestinal Infection
+Mastiff,9,53.2,Male,Yes,Up to date,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Gastrointestinal Infection
+Golden Retriever,4,39.6,Male,No,Up to date,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Gastrointestinal Infection
+Bulldog,0,13.2,Male,No,Not up to date,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Skin Allergy
+Shih Tzu,10,5.2,Male,Yes,Not up to date,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,Respiratory Infection
+Corgi,15,10.9,Male,No,Not up to date,No,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Heart Disease
+Beagle,4,22.2,Male,No,Not up to date,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Kennel Cough
+Golden Retriever,11,29.0,Female,No,Not up to date,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Gastrointestinal Infection
+Shetland Sheepdog,5,20.3,Male,Yes,Not up to date,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Skin Allergy
+Cocker Spaniel,0,17.9,Male,Yes,Up to date,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Gastrointestinal Infection
+Shih Tzu,5,3.9,Male,No,Not up to date,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Skin Allergy
+Bernese Mountain Dog,4,28.5,Male,No,Not up to date,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Skin Allergy
+Border Collie,13,9.9,Female,Yes,Not up to date,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Gastrointestinal Infection
+Corgi,2,13.9,Male,Yes,Not up to date,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Skin Allergy
+Great Pyrenees,13,48.3,Male,No,Up to date,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Gastrointestinal Infection
+Tibetan Mastiff,14,39.4,Female,No,Not up to date,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Skin Allergy
+Boxer,13,40.3,Male,Yes,Not up to date,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Gastrointestinal Infection
+Doberman Pinscher,10,27.6,Female,Yes,Up to date,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Gastrointestinal Infection
+Doberman Pinscher,11,53.8,Female,Yes,Up to date,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Ear Infection
+Siberian Husky,10,37.1,Male,Yes,Not up to date,Yes,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Ear Infection
+Irish Wolfhound,10,26.3,Male,No,Not up to date,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Respiratory Infection
+Pomeranian,12,4.9,Male,No,Not up to date,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Ear Infection
+Pomeranian,10,6.6,Female,Yes,Up to date,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Gastrointestinal Infection
+Dachshund,12,6.6,Male,No,Up to date,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Ear Infection
+Corgi,0,20.0,Male,Yes,Not up to date,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Gastrointestinal Infection
+Bulldog,5,24.8,Female,No,Not up to date,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Diabetes
+Golden Retriever,15,52.0,Male,No,Not up to date,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Gastrointestinal Infection
+Bernese Mountain Dog,0,53.9,Female,No,Up to date,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,Gastrointestinal Infection
+Yorkshire Terrier,2,6.5,Female,No,Up to date,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Skin Allergy
+Great Pyrenees,2,42.4,Female,No,Not up to date,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Skin Allergy
+Golden Retriever,14,30.0,Female,Yes,Up to date,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Skin Allergy
+Shih Tzu,12,3.1,Female,No,Up to date,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Respiratory Infection
+Boxer,0,38.7,Male,Yes,Up to date,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Gastrointestinal Infection
+Beagle,3,11.0,Male,No,Not up to date,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Gastrointestinal Infection
+Akita,13,31.9,Female,No,Up to date,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Arthritis
+Dachshund,0,4.8,Male,Yes,Up to date,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Respiratory Infection
+Chihuahua,12,7.9,Male,Yes,Up to date,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Skin Allergy
+Tibetan Mastiff,5,39.3,Female,No,Not up to date,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Gastrointestinal Infection
+Dachshund,11,6.1,Male,Yes,Up to date,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Skin Allergy
+Tibetan Mastiff,15,45.0,Female,Yes,Up to date,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Gastrointestinal Infection
+Leonberger,1,45.2,Male,Yes,Not up to date,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Gastrointestinal Infection
+Toy Poodle,1,5.4,Male,Yes,Not up to date,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Ear Infection
+Beagle,14,22.3,Male,Yes,Not up to date,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Gastrointestinal Infection
+Maltese,11,2.8,Male,No,Up to date,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Diabetes
+Doberman Pinscher,6,59.1,Female,Yes,Not up to date,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Skin Allergy
+Labrador Retriever,13,32.9,Female,No,Not up to date,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,Skin Allergy
+Alaskan Malamute,3,41.9,Female,No,Not up to date,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Skin Allergy
+Bulldog,12,24.6,Female,Yes,Not up to date,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Gastrointestinal Infection
+Beagle,9,18.8,Female,No,Not up to date,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Ear Infection
+Mastiff,6,38.5,Female,No,Up to date,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Ear Infection
+Siberian Husky,8,44.0,Female,No,Up to date,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Worm Infestation
+Labrador Retriever,10,58.7,Male,No,Not up to date,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Skin Allergy
+Australian Shepherd,0,17.2,Male,No,Not up to date,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Gastrointestinal Infection
+Corgi,14,15.0,Male,No,Up to date,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Skin Allergy
+Shih Tzu,7,6.2,Male,No,Up to date,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Skin Allergy
+Great Dane,7,39.3,Female,Yes,Not up to date,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Healthy
+Irish Wolfhound,10,26.3,Male,Yes,Up to date,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Ear Infection
+Great Dane,2,43.2,Female,No,Not up to date,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,Gastrointestinal Infection
+Bernese Mountain Dog,15,27.3,Male,No,Up to date,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Ear Infection
+Saint Bernard,12,45.4,Female,No,Up to date,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Parvovirus
+Beagle,4,20.8,Female,Yes,Not up to date,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Parvovirus
+Pomeranian,6,3.0,Male,Yes,Not up to date,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Skin Allergy
+Pomeranian,10,6.2,Female,No,Not up to date,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Skin Allergy
+German Shepherd,15,47.1,Male,No,Up to date,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Gastrointestinal Infection
+Chihuahua,4,3.5,Male,Yes,Up to date,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,Worm Infestation
+Beagle,1,15.4,Male,No,Not up to date,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Gastrointestinal Infection
+Toy Poodle,1,4.7,Female,No,Up to date,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Kennel Cough
+Toy Poodle,12,2.1,Male,No,Not up to date,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Arthritis
+Beagle,6,24.7,Female,No,Up to date,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Gastrointestinal Infection
+Great Dane,11,26.5,Female,No,Up to date,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,Skin Allergy
+Boxer,5,53.4,Male,Yes,Not up to date,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,Skin Allergy
+Great Pyrenees,3,59.0,Male,Yes,Not up to date,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Gastrointestinal Infection
+Mastiff,12,37.8,Male,No,Up to date,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Heart Disease
+Toy Poodle,2,3.7,Female,No,Not up to date,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Kennel Cough
+Labrador Retriever,3,54.6,Female,Yes,Not up to date,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Worm Infestation
+Rottweiler,0,48.7,Male,Yes,Up to date,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Ear Infection
+Toy Poodle,12,5.7,Female,Yes,Not up to date,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Skin Allergy
+Labrador Retriever,9,54.5,Male,No,Not up to date,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Gastrointestinal Infection
+Akita,5,51.0,Female,No,Not up to date,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Heart Disease
+Mastiff,10,47.4,Male,No,Up to date,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Skin Allergy
+Pomeranian,13,4.1,Male,Yes,Not up to date,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,Worm Infestation
+Staffordshire Bull Terrier,6,22.3,Male,No,Not up to date,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Gastrointestinal Infection
+Chihuahua,1,5.5,Male,Yes,Up to date,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Gastrointestinal Infection
+Corgi,5,24.9,Female,Yes,Up to date,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Kennel Cough
+Great Dane,3,26.5,Female,No,Not up to date,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,Gastrointestinal Infection
+Shetland Sheepdog,12,20.5,Male,No,Not up to date,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Ear Infection
+Labrador Retriever,0,55.6,Male,Yes,Not up to date,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Respiratory Infection
+Golden Retriever,9,35.4,Female,Yes,Not up to date,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Skin Allergy
+Belgian Malinois,1,51.8,Female,Yes,Not up to date,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Ear Infection
+Shetland Sheepdog,0,24.2,Male,Yes,Up to date,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Gastrointestinal Infection
+Golden Retriever,12,36.7,Female,Yes,Not up to date,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Respiratory Infection
+Border Collie,15,16.6,Male,No,Up to date,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Healthy
+Maltese,2,7.5,Male,No,Not up to date,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Gastrointestinal Infection
+Yorkshire Terrier,13,6.6,Male,Yes,Not up to date,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Respiratory Infection
+Toy Poodle,10,2.4,Female,Yes,Up to date,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Heart Disease
+Dachshund,3,7.3,Female,Yes,Not up to date,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,Respiratory Infection
+German Shepherd,0,34.7,Male,Yes,Not up to date,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Gastrointestinal Infection
+Maltese,1,3.1,Female,Yes,Up to date,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Ear Infection
+Australian Shepherd,12,22.8,Male,No,Up to date,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Ear Infection
+Yorkshire Terrier,6,3.8,Male,No,Up to date,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Skin Allergy
+Toy Poodle,9,6.3,Male,Yes,Up to date,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Gastrointestinal Infection
+Golden Retriever,0,28.5,Male,Yes,Not up to date,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Gastrointestinal Infection
+Rottweiler,6,52.2,Male,Yes,Up to date,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Skin Allergy
+Shetland Sheepdog,11,22.8,Male,No,Up to date,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Skin Allergy
+Akita,2,42.1,Female,No,Up to date,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Ear Infection
+Golden Retriever,7,58.8,Male,Yes,Up to date,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Respiratory Infection
+German Shepherd,13,56.9,Female,Yes,Up to date,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Skin Allergy
+Rottweiler,11,31.1,Female,No,Up to date,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Diabetes
+Alaskan Malamute,11,52.9,Male,No,Up to date,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Ear Infection
+Doberman Pinscher,11,49.5,Male,Yes,Not up to date,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Respiratory Infection
+Chihuahua,13,6.1,Male,Yes,Not up to date,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,Gastrointestinal Infection
+Alaskan Malamute,2,35.1,Male,No,Up to date,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Ear Infection
+Maltese,12,6.8,Female,Yes,Not up to date,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Parvovirus
+Toy Poodle,13,3.6,Male,No,Up to date,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Respiratory Infection
+Irish Wolfhound,4,49.0,Male,Yes,Not up to date,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Diabetes
+Mastiff,11,52.8,Female,Yes,Up to date,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Respiratory Infection
+Toy Poodle,1,3.9,Female,Yes,Not up to date,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Respiratory Infection
+Alaskan Malamute,12,29.3,Male,No,Not up to date,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,Parvovirus
+Great Dane,7,35.8,Female,No,Up to date,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Skin Allergy
+Saint Bernard,7,50.7,Female,No,Not up to date,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,Gastrointestinal Infection
+Shetland Sheepdog,11,24.4,Female,No,Up to date,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Ear Infection
+Shetland Sheepdog,14,15.8,Female,No,Not up to date,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Gastrointestinal Infection
+Shih Tzu,10,4.7,Male,Yes,Up to date,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Parvovirus
+Australian Shepherd,1,10.3,Male,No,Not up to date,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,No,Gastrointestinal Infection
+Yorkshire Terrier,8,5.4,Male,No,Not up to date,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Respiratory Infection
+German Shepherd,7,49.8,Female,Yes,Up to date,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Ear Infection
+Belgian Malinois,15,33.6,Female,No,Up to date,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Gastrointestinal Infection
+Alaskan Malamute,7,58.9,Male,No,Up to date,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Ear Infection
+Doberman Pinscher,5,55.7,Male,Yes,Not up to date,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Respiratory Infection
+Staffordshire Bull Terrier,2,22.3,Male,No,Not up to date,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Respiratory Infection
+Alaskan Malamute,2,54.3,Male,Yes,Not up to date,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Skin Allergy
+Shih Tzu,12,4.2,Female,Yes,Not up to date,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Ear Infection
+Siberian Husky,15,39.6,Male,No,Not up to date,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Respiratory Infection
+Yorkshire Terrier,0,2.4,Female,Yes,Up to date,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Arthritis
+Mastiff,15,53.8,Female,Yes,Not up to date,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Gastrointestinal Infection
+Shih Tzu,6,6.4,Female,Yes,Up to date,No,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Gastrointestinal Infection
+Bulldog,12,15.1,Female,No,Up to date,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Gastrointestinal Infection
+Belgian Malinois,1,35.7,Male,No,Up to date,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Respiratory Infection
+Labrador Retriever,6,38.5,Female,No,Up to date,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Respiratory Infection
+Belgian Malinois,8,53.0,Male,Yes,Not up to date,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Respiratory Infection
+Boxer,4,59.6,Male,No,Not up to date,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Gastrointestinal Infection
+Rottweiler,9,41.7,Male,Yes,Not up to date,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Skin Allergy
+Saint Bernard,3,49.9,Female,Yes,Up to date,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Gastrointestinal Infection
+Bulldog,6,12.3,Female,Yes,Not up to date,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Gastrointestinal Infection
+Shetland Sheepdog,14,24.2,Male,Yes,Not up to date,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Ear Infection
+Shetland Sheepdog,12,19.5,Male,No,Not up to date,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Heart Disease
+Great Dane,15,53.4,Male,Yes,Not up to date,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Ear Infection
+Saint Bernard,14,35.6,Male,Yes,Up to date,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Parvovirus
+Maltese,5,4.0,Female,Yes,Not up to date,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Ear Infection
+Great Pyrenees,9,52.1,Female,No,Not up to date,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Diabetes
+Labrador Retriever,4,46.0,Male,Yes,Up to date,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Ear Infection
+Beagle,15,11.7,Female,No,Up to date,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Respiratory Infection
+Belgian Malinois,0,42.3,Female,No,Up to date,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Skin Allergy
+Belgian Malinois,9,58.5,Female,Yes,Not up to date,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Gastrointestinal Infection
+Irish Wolfhound,4,55.2,Female,No,Up to date,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Gastrointestinal Infection
+Toy Poodle,15,3.8,Male,No,Not up to date,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,No,Respiratory Infection
+Labrador Retriever,2,40.7,Female,Yes,Up to date,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Diabetes
+Staffordshire Bull Terrier,11,22.2,Male,No,Up to date,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,Healthy
+Leonberger,11,49.4,Male,No,Not up to date,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Kennel Cough
+Cocker Spaniel,6,16.3,Female,No,Up to date,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Gastrointestinal Infection
+Golden Retriever,14,53.4,Female,No,Up to date,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Kennel Cough
+Corgi,11,18.6,Male,No,Not up to date,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Diabetes
+Doberman Pinscher,12,30.6,Male,Yes,Not up to date,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Respiratory Infection
+Border Collie,1,21.9,Male,Yes,Not up to date,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Gastrointestinal Infection
+Bernese Mountain Dog,13,44.9,Female,Yes,Up to date,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Skin Allergy
+Saint Bernard,5,59.2,Male,Yes,Up to date,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Gastrointestinal Infection
+Yorkshire Terrier,1,6.3,Male,Yes,Up to date,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Respiratory Infection
+German Shepherd,12,30.8,Female,Yes,Up to date,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Skin Allergy
+Mastiff,2,47.1,Female,Yes,Up to date,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Ear Infection
+Mastiff,3,42.7,Female,Yes,Up to date,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Respiratory Infection
+Rottweiler,2,58.4,Male,Yes,Not up to date,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Respiratory Infection
+Belgian Malinois,4,27.5,Male,No,Up to date,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Gastrointestinal Infection
+Beagle,9,16.0,Female,No,Not up to date,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Gastrointestinal Infection
+Chihuahua,11,2.0,Male,Yes,Not up to date,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Skin Allergy
+Dachshund,10,6.0,Male,Yes,Not up to date,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Parvovirus
+Tibetan Mastiff,5,48.2,Male,Yes,Not up to date,No,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Yes,Arthritis
+Bernese Mountain Dog,9,30.2,Male,Yes,Up to date,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Gastrointestinal Infection
+Bernese Mountain Dog,3,45.7,Male,No,Not up to date,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,Skin Allergy
+Akita,1,43.9,Male,Yes,Up to date,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Gastrointestinal Infection
+Saint Bernard,8,32.4,Female,Yes,Not up to date,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Ear Infection
+Labrador Retriever,11,34.3,Male,Yes,Not up to date,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Gastrointestinal Infection
+Shetland Sheepdog,13,17.5,Female,No,Up to date,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Skin Allergy
+Pomeranian,8,5.9,Female,Yes,Up to date,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Parvovirus
+Doberman Pinscher,10,57.3,Female,No,Up to date,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Heart Disease
+Tibetan Mastiff,1,29.5,Male,No,Not up to date,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Skin Allergy
+German Shepherd,6,34.7,Male,Yes,Not up to date,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Skin Allergy
+Australian Shepherd,5,14.4,Female,Yes,Not up to date,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Kennel Cough
+Bulldog,11,23.6,Female,No,Up to date,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Gastrointestinal Infection
+Golden Retriever,5,58.1,Female,Yes,Up to date,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Gastrointestinal Infection
+Golden Retriever,8,53.0,Male,No,Up to date,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Respiratory Infection
+Boxer,0,38.0,Female,No,Not up to date,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Respiratory Infection
+Rottweiler,13,54.2,Male,No,Not up to date,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Skin Allergy
+Golden Retriever,1,51.3,Male,No,Not up to date,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,Gastrointestinal Infection
+Great Dane,7,48.8,Male,Yes,Not up to date,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Ear Infection
+Boxer,6,51.4,Female,Yes,Up to date,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Ear Infection
+Bulldog,0,24.8,Male,No,Not up to date,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Skin Allergy
+Border Collie,8,10.4,Female,Yes,Up to date,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Gastrointestinal Infection
+Shih Tzu,6,8.0,Female,No,Up to date,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Gastrointestinal Infection
+Boxer,9,35.5,Female,Yes,Not up to date,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,Respiratory Infection
+Border Collie,15,22.6,Female,Yes,Up to date,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Respiratory Infection
+Labrador Retriever,2,59.6,Female,No,Up to date,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Arthritis
+Cocker Spaniel,8,19.8,Male,Yes,Not up to date,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,Skin Allergy
+Beagle,0,24.1,Male,Yes,Up to date,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Skin Allergy
+Pomeranian,15,5.1,Male,Yes,Not up to date,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Gastrointestinal Infection
+Saint Bernard,1,50.7,Male,Yes,Not up to date,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Ear Infection
+Alaskan Malamute,3,40.9,Female,Yes,Not up to date,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Respiratory Infection
+Shetland Sheepdog,10,20.2,Male,Yes,Not up to date,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Gastrointestinal Infection
+Belgian Malinois,7,57.7,Female,No,Up to date,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Respiratory Infection
+Labrador Retriever,1,46.4,Male,No,Not up to date,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Kennel Cough
+Alaskan Malamute,3,29.6,Male,No,Not up to date,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Parvovirus
+Siberian Husky,9,26.9,Male,Yes,Not up to date,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Skin Allergy
+Chihuahua,15,7.0,Male,Yes,Not up to date,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Ear Infection
+Shetland Sheepdog,0,24.7,Male,No,Not up to date,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Parvovirus
+Irish Wolfhound,3,59.9,Male,Yes,Up to date,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Gastrointestinal Infection
+Staffordshire Bull Terrier,7,13.8,Male,No,Not up to date,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Parvovirus
+Toy Poodle,0,5.8,Male,No,Up to date,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Gastrointestinal Infection
+Australian Shepherd,2,18.7,Male,Yes,Up to date,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Diabetes
+Alaskan Malamute,7,29.5,Male,No,Not up to date,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Gastrointestinal Infection
+Rottweiler,7,45.1,Male,No,Not up to date,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Worm Infestation
+Doberman Pinscher,0,45.8,Male,No,Up to date,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Respiratory Infection
+Golden Retriever,2,55.0,Male,Yes,Up to date,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Gastrointestinal Infection
+Australian Shepherd,1,13.8,Male,No,Up to date,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Gastrointestinal Infection
+Boxer,8,26.4,Female,Yes,Not up to date,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Ear Infection
+Alaskan Malamute,13,50.6,Female,Yes,Up to date,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Healthy
+Yorkshire Terrier,7,6.5,Male,No,Up to date,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Kennel Cough
+Australian Shepherd,0,21.2,Female,Yes,Not up to date,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Skin Allergy
+Boxer,13,39.7,Male,Yes,Not up to date,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Ear Infection
+Belgian Malinois,8,48.8,Female,Yes,Not up to date,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Skin Allergy
+Boxer,2,58.3,Female,No,Not up to date,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Gastrointestinal Infection
+Irish Wolfhound,2,37.9,Male,Yes,Up to date,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Arthritis
+Border Collie,15,18.0,Male,No,Not up to date,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Gastrointestinal Infection
+Leonberger,0,32.0,Female,Yes,Not up to date,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Ear Infection
+Australian Shepherd,10,16.4,Female,Yes,Up to date,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Parvovirus
+Bulldog,9,23.0,Male,No,Not up to date,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Kennel Cough
+Siberian Husky,11,59.2,Male,No,Not up to date,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Gastrointestinal Infection
+Bulldog,0,16.5,Male,Yes,Not up to date,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Gastrointestinal Infection
+Border Collie,7,21.6,Male,Yes,Not up to date,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Skin Allergy
+German Shepherd,5,47.5,Male,No,Up to date,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Skin Allergy
+Alaskan Malamute,13,53.1,Male,Yes,Up to date,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Healthy
+Beagle,4,14.8,Male,No,Up to date,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Kennel Cough
+Labrador Retriever,14,57.2,Female,No,Up to date,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Parvovirus
+Staffordshire Bull Terrier,12,11.4,Female,No,Up to date,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Gastrointestinal Infection
+Border Collie,3,12.7,Female,Yes,Up to date,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Gastrointestinal Infection
+Pomeranian,1,3.2,Female,Yes,Not up to date,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Respiratory Infection
+Bulldog,11,16.8,Male,Yes,Not up to date,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Parvovirus
+Golden Retriever,1,56.8,Female,No,Not up to date,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Ear Infection
+Leonberger,10,51.4,Male,No,Not up to date,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Gastrointestinal Infection
+Border Collie,2,13.3,Male,No,Not up to date,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Ear Infection
+Maltese,7,3.9,Female,No,Up to date,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Respiratory Infection
+Yorkshire Terrier,2,2.6,Male,No,Up to date,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Gastrointestinal Infection
+Saint Bernard,2,36.1,Female,Yes,Up to date,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Respiratory Infection
+Toy Poodle,0,6.7,Male,No,Not up to date,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Skin Allergy
+Rottweiler,13,26.3,Female,Yes,Up to date,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Arthritis
+Leonberger,10,44.4,Female,No,Not up to date,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Ear Infection
+Shetland Sheepdog,5,15.4,Female,Yes,Up to date,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Ear Infection
+Boxer,1,40.7,Female,Yes,Not up to date,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Respiratory Infection
+Cocker Spaniel,2,21.2,Male,Yes,Not up to date,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Gastrointestinal Infection
+Beagle,14,11.9,Male,Yes,Up to date,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Respiratory Infection
+Labrador Retriever,12,46.6,Male,No,Not up to date,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Skin Allergy
+Toy Poodle,3,6.8,Male,Yes,Up to date,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Arthritis
+Golden Retriever,7,50.9,Male,Yes,Up to date,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Gastrointestinal Infection
+Dachshund,6,5.8,Male,Yes,Up to date,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Skin Allergy
+Golden Retriever,14,42.0,Female,Yes,Not up to date,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Gastrointestinal Infection
+Alaskan Malamute,9,27.1,Male,Yes,Not up to date,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Respiratory Infection
+Yorkshire Terrier,0,4.0,Male,Yes,Up to date,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Skin Allergy
+German Shepherd,14,53.7,Female,Yes,Not up to date,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Respiratory Infection
+Belgian Malinois,10,45.5,Female,Yes,Not up to date,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Gastrointestinal Infection
+Dachshund,9,2.8,Female,No,Not up to date,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Arthritis
+Leonberger,5,32.6,Female,Yes,Up to date,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Respiratory Infection
+Cocker Spaniel,13,16.9,Female,Yes,Not up to date,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Ear Infection
+Saint Bernard,7,28.3,Female,No,Up to date,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Gastrointestinal Infection
+Bernese Mountain Dog,10,57.3,Male,Yes,Up to date,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Skin Allergy
+Tibetan Mastiff,0,43.6,Male,Yes,Not up to date,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Respiratory Infection
+Bulldog,12,20.0,Male,Yes,Up to date,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,Gastrointestinal Infection
+Staffordshire Bull Terrier,15,17.8,Male,Yes,Up to date,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Gastrointestinal Infection
+Rottweiler,3,44.6,Male,No,Not up to date,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Heart Disease
+Golden Retriever,15,55.3,Male,Yes,Not up to date,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Skin Allergy
+Yorkshire Terrier,9,5.0,Male,Yes,Up to date,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Respiratory Infection
+Golden Retriever,15,42.4,Female,Yes,Not up to date,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Respiratory Infection
+Staffordshire Bull Terrier,3,17.8,Female,Yes,Not up to date,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Gastrointestinal Infection
+Labrador Retriever,12,31.8,Male,Yes,Up to date,Yes,No,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,Skin Allergy
+Belgian Malinois,14,47.0,Female,No,Up to date,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Skin Allergy
+Bulldog,4,21.3,Male,Yes,Up to date,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Respiratory Infection
+Rottweiler,8,43.9,Female,Yes,Not up to date,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Gastrointestinal Infection
+Doberman Pinscher,10,52.6,Male,Yes,Not up to date,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Gastrointestinal Infection
+Rottweiler,12,55.4,Female,Yes,Not up to date,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Gastrointestinal Infection
+Saint Bernard,9,45.6,Female,Yes,Not up to date,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Respiratory Infection
+Belgian Malinois,7,41.1,Female,No,Up to date,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Gastrointestinal Infection
+Siberian Husky,13,26.4,Male,Yes,Up to date,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Ear Infection
+Great Dane,3,47.5,Male,Yes,Up to date,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Kennel Cough
+Toy Poodle,11,6.6,Male,Yes,Not up to date,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Gastrointestinal Infection
+Maltese,13,5.5,Male,Yes,Up to date,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Gastrointestinal Infection
+Labrador Retriever,5,31.0,Female,Yes,Up to date,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Respiratory Infection
+Golden Retriever,6,49.3,Male,No,Not up to date,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Skin Allergy
+Saint Bernard,1,43.9,Male,No,Not up to date,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Gastrointestinal Infection
+Bernese Mountain Dog,12,30.5,Female,No,Up to date,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Respiratory Infection
+Maltese,13,3.0,Female,Yes,Up to date,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Respiratory Infection
+Belgian Malinois,11,53.4,Male,Yes,Not up to date,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Gastrointestinal Infection
+Golden Retriever,14,35.7,Female,No,Up to date,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Ear Infection
+Boxer,12,39.1,Male,Yes,Up to date,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Ear Infection
+Staffordshire Bull Terrier,10,23.9,Male,No,Not up to date,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Gastrointestinal Infection
+Bernese Mountain Dog,5,44.0,Female,Yes,Not up to date,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Gastrointestinal Infection
+Bernese Mountain Dog,13,31.1,Male,Yes,Not up to date,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Respiratory Infection
+Australian Shepherd,9,9.2,Male,Yes,Not up to date,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,Gastrointestinal Infection
+Pomeranian,14,6.5,Female,No,Not up to date,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Ear Infection
+Akita,0,44.7,Male,No,Up to date,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Gastrointestinal Infection
+Golden Retriever,0,48.1,Male,Yes,Not up to date,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Skin Allergy
+Beagle,6,16.0,Female,Yes,Up to date,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Skin Allergy
+Siberian Husky,13,55.8,Male,Yes,Up to date,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Skin Allergy
+Belgian Malinois,11,50.9,Male,No,Up to date,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Ear Infection
+Doberman Pinscher,10,53.2,Male,Yes,Up to date,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Gastrointestinal Infection
+Labrador Retriever,8,38.8,Male,No,Up to date,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Respiratory Infection
+German Shepherd,2,31.8,Male,Yes,Up to date,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Gastrointestinal Infection
+Chihuahua,15,2.9,Male,Yes,Not up to date,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Ear Infection
+Dachshund,9,4.7,Female,Yes,Up to date,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Skin Allergy
+Siberian Husky,2,50.7,Female,Yes,Not up to date,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Skin Allergy
+Toy Poodle,11,4.6,Female,Yes,Up to date,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Gastrointestinal Infection
+Alaskan Malamute,4,58.5,Female,Yes,Up to date,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Gastrointestinal Infection
+Labrador Retriever,5,56.5,Male,No,Not up to date,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Respiratory Infection
+Akita,15,54.6,Male,Yes,Not up to date,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Gastrointestinal Infection
+Australian Shepherd,5,22.6,Female,No,Up to date,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Gastrointestinal Infection
+Staffordshire Bull Terrier,3,17.0,Male,Yes,Not up to date,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Skin Allergy
+Cocker Spaniel,0,15.5,Male,No,Not up to date,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Gastrointestinal Infection
+Yorkshire Terrier,14,6.6,Female,No,Not up to date,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Parvovirus
+Rottweiler,10,44.4,Female,Yes,Not up to date,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Heart Disease
+Rottweiler,6,45.0,Male,No,Up to date,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Gastrointestinal Infection
+Dachshund,1,5.1,Male,Yes,Up to date,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Respiratory Infection
+Cocker Spaniel,12,19.6,Male,Yes,Not up to date,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Gastrointestinal Infection
+Yorkshire Terrier,0,2.9,Female,No,Not up to date,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Gastrointestinal Infection
+Tibetan Mastiff,12,27.1,Male,No,Up to date,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Gastrointestinal Infection
+Pomeranian,6,4.2,Female,No,Not up to date,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Gastrointestinal Infection
+Great Pyrenees,11,37.6,Female,Yes,Up to date,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Skin Allergy
+Beagle,1,18.4,Male,Yes,Up to date,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Respiratory Infection
+Great Pyrenees,8,46.1,Female,No,Up to date,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Parvovirus
+Beagle,5,9.3,Male,Yes,Not up to date,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Skin Allergy
+Bernese Mountain Dog,12,30.9,Male,No,Up to date,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Gastrointestinal Infection
+Chihuahua,7,6.0,Male,Yes,Not up to date,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Gastrointestinal Infection
+Golden Retriever,8,52.9,Female,Yes,Not up to date,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Respiratory Infection
+Australian Shepherd,4,19.1,Male,Yes,Up to date,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Parvovirus
+Alaskan Malamute,9,54.8,Male,No,Not up to date,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Respiratory Infection
+Bernese Mountain Dog,5,34.9,Female,No,Up to date,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Skin Allergy
+Cocker Spaniel,0,9.4,Female,Yes,Not up to date,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Gastrointestinal Infection
+Saint Bernard,14,52.8,Female,No,Up to date,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Respiratory Infection
+Shetland Sheepdog,15,15.0,Male,Yes,Up to date,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Respiratory Infection
+Staffordshire Bull Terrier,11,23.7,Female,No,Not up to date,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Parvovirus
+Australian Shepherd,14,14.7,Male,No,Not up to date,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Gastrointestinal Infection
+Beagle,6,22.5,Female,Yes,Up to date,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Respiratory Infection
+Great Pyrenees,10,33.7,Male,Yes,Not up to date,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Ear Infection
+Irish Wolfhound,2,32.9,Female,No,Up to date,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Gastrointestinal Infection
+Beagle,0,12.8,Male,No,Up to date,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Diabetes
+Bernese Mountain Dog,7,41.7,Male,No,Up to date,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Diabetes
+Akita,9,46.5,Female,Yes,Up to date,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Ear Infection
+Rottweiler,2,33.0,Female,No,Not up to date,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Ear Infection
+Tibetan Mastiff,8,48.8,Male,Yes,Up to date,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Gastrointestinal Infection
+Cocker Spaniel,1,11.1,Female,Yes,Up to date,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Respiratory Infection
+Boxer,6,58.2,Male,Yes,Not up to date,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Worm Infestation
+Irish Wolfhound,6,57.1,Male,Yes,Not up to date,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Ear Infection
+Dachshund,7,7.5,Female,No,Up to date,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Respiratory Infection
+Belgian Malinois,14,57.8,Male,Yes,Not up to date,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,Skin Allergy
+Beagle,5,12.8,Female,No,Not up to date,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Respiratory Infection
+Dachshund,12,4.2,Male,Yes,Up to date,No,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Arthritis
+Great Dane,0,43.6,Female,Yes,Up to date,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Gastrointestinal Infection
+Shetland Sheepdog,9,14.5,Male,No,Up to date,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Gastrointestinal Infection
+Rottweiler,11,45.8,Male,No,Not up to date,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Parvovirus
+Rottweiler,6,36.8,Male,No,Not up to date,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Gastrointestinal Infection
+Leonberger,7,47.9,Female,No,Up to date,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Gastrointestinal Infection
+Corgi,12,19.0,Male,No,Not up to date,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Gastrointestinal Infection
+Pomeranian,14,4.5,Male,Yes,Not up to date,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Gastrointestinal Infection
+Chihuahua,2,5.2,Male,No,Not up to date,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Gastrointestinal Infection
+Pomeranian,4,8.0,Male,Yes,Not up to date,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Respiratory Infection
+Border Collie,0,23.4,Female,Yes,Up to date,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Worm Infestation
+Golden Retriever,15,45.7,Male,Yes,Not up to date,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Gastrointestinal Infection
+Tibetan Mastiff,7,40.8,Male,Yes,Not up to date,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Gastrointestinal Infection
+German Shepherd,8,47.1,Male,Yes,Up to date,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Respiratory Infection
+Australian Shepherd,4,19.0,Male,Yes,Not up to date,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Ear Infection
+Great Dane,14,45.4,Male,No,Up to date,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Respiratory Infection
+Leonberger,0,57.4,Male,Yes,Up to date,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Ear Infection
+Dachshund,13,6.7,Female,No,Up to date,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Ear Infection
+Yorkshire Terrier,15,3.7,Female,Yes,Up to date,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Yes,Gastrointestinal Infection
+Beagle,7,11.3,Female,No,Not up to date,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Kennel Cough
+Bulldog,2,13.4,Female,No,Not up to date,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Skin Allergy
+Shetland Sheepdog,4,14.0,Female,Yes,Up to date,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Gastrointestinal Infection
+Akita,7,47.4,Male,No,Not up to date,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Skin Allergy
+Border Collie,6,19.0,Male,Yes,Up to date,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Arthritis
+Bernese Mountain Dog,13,58.2,Female,Yes,Not up to date,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Skin Allergy
+Shetland Sheepdog,0,16.7,Female,No,Not up to date,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Respiratory Infection
+Mastiff,10,56.7,Male,No,Up to date,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Skin Allergy
+Dachshund,15,6.1,Female,Yes,Up to date,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Ear Infection
+Pomeranian,7,5.1,Male,Yes,Up to date,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Respiratory Infection
+Bulldog,8,20.3,Female,No,Not up to date,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Gastrointestinal Infection
+Irish Wolfhound,2,54.8,Male,Yes,Up to date,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Skin Allergy
+Belgian Malinois,15,30.3,Female,No,Not up to date,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Gastrointestinal Infection
+Alaskan Malamute,14,29.0,Female,Yes,Not up to date,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Gastrointestinal Infection
+Siberian Husky,11,33.1,Female,No,Not up to date,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Respiratory Infection
+Akita,4,51.0,Male,No,Not up to date,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Respiratory Infection
+Border Collie,4,17.4,Male,No,Not up to date,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Respiratory Infection
+Alaskan Malamute,13,54.2,Female,No,Not up to date,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Gastrointestinal Infection
+Cocker Spaniel,12,21.1,Female,Yes,Not up to date,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Respiratory Infection
+Maltese,10,4.3,Female,Yes,Up to date,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Respiratory Infection
+Irish Wolfhound,12,30.8,Female,Yes,Up to date,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Kennel Cough
+Labrador Retriever,11,48.6,Female,Yes,Not up to date,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Respiratory Infection
+Great Dane,6,50.2,Female,No,Not up to date,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,Gastrointestinal Infection
+Shih Tzu,5,7.9,Female,Yes,Not up to date,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Gastrointestinal Infection
+Alaskan Malamute,2,47.1,Female,No,Not up to date,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Respiratory Infection
+Siberian Husky,4,36.1,Female,Yes,Up to date,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Heart Disease
+Rottweiler,5,44.3,Female,Yes,Not up to date,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Kennel Cough
+Rottweiler,15,27.6,Male,No,Up to date,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Respiratory Infection
+Corgi,11,11.6,Male,No,Up to date,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Respiratory Infection
+German Shepherd,0,48.4,Male,No,Not up to date,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Ear Infection
+Belgian Malinois,12,39.7,Female,Yes,Up to date,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Skin Allergy
+Rottweiler,3,27.8,Female,No,Not up to date,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Parvovirus
+Siberian Husky,5,39.4,Male,Yes,Up to date,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Respiratory Infection
+Mastiff,4,40.9,Female,Yes,Up to date,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Gastrointestinal Infection
+Great Dane,6,41.9,Male,Yes,Not up to date,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Respiratory Infection
+Bulldog,10,20.5,Male,No,Up to date,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Gastrointestinal Infection
+Bernese Mountain Dog,4,29.1,Male,No,Up to date,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Gastrointestinal Infection
+Shih Tzu,10,3.5,Male,No,Up to date,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Skin Allergy
+Great Pyrenees,12,47.8,Female,Yes,Not up to date,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Ear Infection
+Bulldog,10,23.9,Male,Yes,Not up to date,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Ear Infection
+Shih Tzu,8,7.7,Female,Yes,Not up to date,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,Healthy
+Staffordshire Bull Terrier,5,24.2,Male,Yes,Up to date,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,Skin Allergy
+Chihuahua,5,5.0,Male,No,Up to date,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Arthritis
+Pomeranian,6,6.2,Male,No,Not up to date,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Ear Infection
+Labrador Retriever,6,37.5,Female,Yes,Not up to date,Yes,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Ear Infection
+Dachshund,5,2.6,Male,Yes,Not up to date,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Gastrointestinal Infection
+Cocker Spaniel,14,14.3,Female,No,Up to date,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Healthy
+Saint Bernard,3,37.8,Male,Yes,Up to date,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Respiratory Infection
+Toy Poodle,6,7.7,Male,Yes,Not up to date,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Skin Allergy
+Akita,1,39.5,Female,No,Not up to date,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Skin Allergy
+Staffordshire Bull Terrier,13,18.6,Female,No,Up to date,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Gastrointestinal Infection
+Toy Poodle,13,4.9,Male,Yes,Up to date,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Skin Allergy
+Boxer,12,28.2,Male,Yes,Up to date,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,Ear Infection
+Saint Bernard,4,44.9,Male,Yes,Up to date,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Gastrointestinal Infection
+Akita,6,53.0,Female,No,Not up to date,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Skin Allergy
+Leonberger,9,26.6,Male,No,Up to date,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Ear Infection
+Maltese,14,5.9,Male,No,Not up to date,No,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Ear Infection
+Labrador Retriever,8,36.4,Female,Yes,Not up to date,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Arthritis
+Dachshund,10,6.0,Female,No,Not up to date,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Gastrointestinal Infection
+Bulldog,12,13.5,Female,Yes,Up to date,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Gastrointestinal Infection
+Pomeranian,9,4.9,Female,Yes,Not up to date,No,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Respiratory Infection
+Chihuahua,8,4.1,Female,No,Up to date,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Gastrointestinal Infection
+Tibetan Mastiff,11,29.4,Female,Yes,Not up to date,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Skin Allergy
+Chihuahua,12,5.3,Female,No,Not up to date,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Gastrointestinal Infection
+German Shepherd,1,35.9,Male,No,Not up to date,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Parvovirus
+Beagle,15,24.2,Male,Yes,Not up to date,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Skin Allergy
+Australian Shepherd,13,18.9,Male,Yes,Not up to date,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Gastrointestinal Infection
+Chihuahua,11,4.8,Male,Yes,Not up to date,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Gastrointestinal Infection
+German Shepherd,3,37.5,Male,No,Not up to date,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Skin Allergy
+Bernese Mountain Dog,8,32.5,Male,No,Not up to date,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Respiratory Infection
+Australian Shepherd,2,20.1,Male,Yes,Up to date,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,Healthy
+Labrador Retriever,1,39.8,Female,No,Not up to date,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Skin Allergy
+Boxer,13,26.9,Male,No,Not up to date,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Heart Disease
+Belgian Malinois,9,41.5,Male,No,Not up to date,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Respiratory Infection
+Mastiff,3,29.1,Male,Yes,Up to date,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Parvovirus
+Chihuahua,14,4.0,Male,No,Not up to date,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Respiratory Infection
+Labrador Retriever,0,42.5,Female,No,Up to date,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Respiratory Infection
+Mastiff,15,38.8,Male,Yes,Up to date,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Parvovirus
+Border Collie,2,15.3,Male,Yes,Up to date,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Skin Allergy
+Rottweiler,11,53.1,Male,Yes,Up to date,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Kennel Cough
+Chihuahua,13,7.7,Female,Yes,Not up to date,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Gastrointestinal Infection
+Shih Tzu,9,3.5,Male,No,Not up to date,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Gastrointestinal Infection
+Boxer,12,54.3,Male,No,Up to date,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Respiratory Infection
+Akita,11,36.7,Female,No,Up to date,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Gastrointestinal Infection
+Border Collie,4,11.9,Male,Yes,Not up to date,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Ear Infection
+Maltese,0,4.7,Female,No,Not up to date,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Gastrointestinal Infection
+Dachshund,3,5.7,Male,Yes,Not up to date,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Ear Infection
+Great Pyrenees,15,53.3,Male,Yes,Not up to date,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Skin Allergy
+Beagle,3,22.2,Female,Yes,Not up to date,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Parvovirus
+Shetland Sheepdog,11,21.3,Male,No,Up to date,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Skin Allergy
+Shetland Sheepdog,11,19.6,Male,No,Up to date,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Gastrointestinal Infection
+Great Pyrenees,6,42.0,Male,Yes,Up to date,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Respiratory Infection
+Shih Tzu,4,7.4,Female,Yes,Not up to date,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Ear Infection
+Australian Shepherd,15,24.5,Male,Yes,Up to date,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Respiratory Infection
+Irish Wolfhound,9,32.5,Female,No,Up to date,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Heart Disease
+Tibetan Mastiff,6,51.7,Male,Yes,Up to date,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Gastrointestinal Infection
+Bulldog,11,16.6,Female,Yes,Not up to date,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Respiratory Infection
+Bulldog,0,24.4,Male,Yes,Not up to date,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Gastrointestinal Infection
+Shetland Sheepdog,4,23.2,Female,No,Up to date,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Gastrointestinal Infection
+Border Collie,1,9.5,Male,Yes,Up to date,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Skin Allergy
+Doberman Pinscher,9,57.0,Female,Yes,Not up to date,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Respiratory Infection
+Australian Shepherd,12,12.1,Female,No,Not up to date,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Ear Infection
+Toy Poodle,11,6.0,Male,Yes,Not up to date,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Skin Allergy
+Cocker Spaniel,7,10.5,Female,Yes,Not up to date,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Skin Allergy
+Great Dane,8,31.2,Male,Yes,Not up to date,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Skin Allergy
+Cocker Spaniel,5,15.2,Female,No,Not up to date,No,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Gastrointestinal Infection
+Great Pyrenees,2,46.0,Male,Yes,Not up to date,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Gastrointestinal Infection
+Maltese,7,4.4,Female,No,Not up to date,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Skin Allergy
+Australian Shepherd,14,10.2,Female,Yes,Not up to date,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Gastrointestinal Infection
+Rottweiler,10,53.4,Male,No,Not up to date,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Gastrointestinal Infection
+Chihuahua,13,3.8,Female,No,Up to date,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Ear Infection
+Maltese,5,4.2,Male,Yes,Up to date,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Kennel Cough
+Great Pyrenees,11,59.2,Male,Yes,Up to date,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Respiratory Infection
+German Shepherd,1,36.8,Male,Yes,Not up to date,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Gastrointestinal Infection
+Shih Tzu,0,6.0,Male,No,Up to date,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Parvovirus
+Akita,1,51.7,Female,Yes,Not up to date,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Diabetes
+Shih Tzu,1,2.5,Female,Yes,Not up to date,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Respiratory Infection
+Great Dane,3,29.6,Female,Yes,Not up to date,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Ear Infection
+Staffordshire Bull Terrier,14,15.7,Male,No,Not up to date,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Heart Disease
+Great Dane,12,48.4,Male,No,Up to date,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Ear Infection
+Rottweiler,9,31.6,Male,Yes,Not up to date,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Gastrointestinal Infection
+Yorkshire Terrier,13,6.0,Male,Yes,Up to date,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Skin Allergy
+Yorkshire Terrier,13,4.0,Female,Yes,Not up to date,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Gastrointestinal Infection
+Toy Poodle,10,3.0,Male,Yes,Not up to date,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,Respiratory Infection
+Great Dane,5,28.9,Male,Yes,Up to date,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Respiratory Infection
+Staffordshire Bull Terrier,2,13.2,Male,No,Up to date,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Skin Allergy
+Dachshund,12,5.2,Female,Yes,Up to date,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,Gastrointestinal Infection
+Akita,5,45.0,Female,Yes,Up to date,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Skin Allergy
+Leonberger,12,55.9,Female,Yes,Not up to date,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Skin Allergy
+Tibetan Mastiff,10,43.5,Female,No,Up to date,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Respiratory Infection
+Shih Tzu,5,6.5,Female,Yes,Up to date,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Skin Allergy
+Great Dane,5,30.4,Male,No,Up to date,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Skin Allergy
+Akita,1,56.1,Female,No,Not up to date,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Worm Infestation
+Great Dane,11,45.2,Male,No,Not up to date,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Parvovirus
+Australian Shepherd,1,15.5,Male,Yes,Not up to date,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Respiratory Infection
+Dachshund,11,7.8,Male,Yes,Up to date,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Gastrointestinal Infection
+Alaskan Malamute,0,41.6,Female,Yes,Not up to date,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Respiratory Infection
+Australian Shepherd,10,19.9,Male,No,Not up to date,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Heart Disease
+Bulldog,13,13.5,Male,No,Not up to date,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Worm Infestation
+Shih Tzu,1,5.9,Male,Yes,Not up to date,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,Ear Infection
+Dachshund,11,4.7,Female,Yes,Up to date,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Skin Allergy
+Boxer,9,57.2,Male,No,Not up to date,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Heart Disease
+Golden Retriever,9,39.8,Female,Yes,Up to date,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Gastrointestinal Infection
+Chihuahua,7,4.4,Female,Yes,Not up to date,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Gastrointestinal Infection
+Yorkshire Terrier,6,5.0,Male,Yes,Up to date,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Diabetes
+Rottweiler,9,54.9,Female,Yes,Up to date,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Healthy
+Shih Tzu,9,3.8,Male,No,Not up to date,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Parvovirus
+Dachshund,15,7.5,Male,Yes,Up to date,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Skin Allergy
+Rottweiler,4,33.8,Female,No,Up to date,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Ear Infection
+Dachshund,5,6.3,Female,No,Up to date,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Arthritis
+Leonberger,6,30.3,Male,No,Not up to date,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Gastrointestinal Infection
+Rottweiler,1,31.7,Female,Yes,Up to date,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Respiratory Infection
+Tibetan Mastiff,5,57.2,Female,No,Not up to date,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Ear Infection
+Bernese Mountain Dog,3,47.2,Female,No,Not up to date,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Ear Infection
+Bulldog,7,13.2,Female,No,Up to date,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Diabetes
+Toy Poodle,0,4.8,Female,No,Up to date,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Gastrointestinal Infection
+Australian Shepherd,13,18.4,Female,Yes,Not up to date,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Ear Infection
+Bulldog,6,14.5,Female,No,Up to date,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Gastrointestinal Infection
+Bulldog,6,23.2,Male,Yes,Not up to date,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Skin Allergy
+Leonberger,4,52.3,Female,Yes,Up to date,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Gastrointestinal Infection
+Chihuahua,6,6.6,Male,No,Up to date,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Gastrointestinal Infection
+Bernese Mountain Dog,3,36.5,Female,Yes,Not up to date,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Skin Allergy
+Beagle,6,12.6,Female,Yes,Up to date,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Respiratory Infection
+Doberman Pinscher,4,31.9,Female,Yes,Not up to date,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Respiratory Infection
+Alaskan Malamute,2,58.6,Female,No,Up to date,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Respiratory Infection
+Doberman Pinscher,10,50.4,Female,No,Not up to date,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Parvovirus
+Beagle,9,11.4,Male,No,Not up to date,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,Gastrointestinal Infection
+Staffordshire Bull Terrier,12,16.2,Female,Yes,Up to date,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Respiratory Infection
+Rottweiler,15,52.7,Male,No,Not up to date,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Ear Infection
+Staffordshire Bull Terrier,3,20.1,Male,No,Up to date,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Skin Allergy
+Golden Retriever,3,36.3,Female,Yes,Not up to date,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Respiratory Infection
+Yorkshire Terrier,6,6.6,Female,No,Up to date,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Gastrointestinal Infection
+Alaskan Malamute,7,52.9,Male,Yes,Not up to date,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Healthy
+Rottweiler,13,48.1,Male,No,Up to date,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Respiratory Infection
+Staffordshire Bull Terrier,10,14.2,Male,Yes,Not up to date,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Respiratory Infection
+Boxer,9,29.5,Female,No,Up to date,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Ear Infection
+Belgian Malinois,4,36.2,Female,No,Up to date,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Skin Allergy
+Corgi,2,21.6,Male,Yes,Up to date,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Respiratory Infection
+Saint Bernard,6,36.7,Male,Yes,Up to date,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,Gastrointestinal Infection
+Saint Bernard,10,41.5,Male,Yes,Up to date,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Diabetes
+Doberman Pinscher,9,32.2,Female,Yes,Not up to date,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Skin Allergy
+Pomeranian,10,4.5,Male,Yes,Up to date,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Respiratory Infection
+Dachshund,13,2.9,Female,No,Up to date,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Gastrointestinal Infection
+Saint Bernard,8,59.5,Female,Yes,Up to date,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Skin Allergy
+German Shepherd,13,35.6,Female,No,Up to date,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Skin Allergy
+Dachshund,5,5.3,Male,Yes,Up to date,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Gastrointestinal Infection
+Bulldog,14,20.2,Male,No,Up to date,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Arthritis
+Doberman Pinscher,8,40.5,Male,Yes,Up to date,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Gastrointestinal Infection
+Beagle,2,9.6,Male,No,Not up to date,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Kennel Cough
+Belgian Malinois,12,47.4,Male,No,Up to date,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,Respiratory Infection
+Akita,11,53.1,Male,Yes,Not up to date,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Healthy
+Alaskan Malamute,14,56.8,Female,Yes,Up to date,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Gastrointestinal Infection
+Leonberger,4,43.2,Male,Yes,Up to date,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Ear Infection
+Shih Tzu,15,2.6,Male,Yes,Not up to date,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Gastrointestinal Infection
+Border Collie,12,9.2,Male,Yes,Up to date,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Worm Infestation
+Labrador Retriever,5,26.2,Female,Yes,Not up to date,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Respiratory Infection
+Border Collie,10,14.5,Male,Yes,Up to date,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Gastrointestinal Infection
+Yorkshire Terrier,6,6.0,Female,Yes,Up to date,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Respiratory Infection
+Golden Retriever,13,32.1,Male,Yes,Not up to date,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Arthritis
+Border Collie,3,13.5,Female,No,Not up to date,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Skin Allergy
+Border Collie,14,10.4,Female,No,Up to date,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Respiratory Infection
+Great Pyrenees,3,56.4,Male,Yes,Not up to date,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Respiratory Infection
+Doberman Pinscher,6,42.5,Female,No,Up to date,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Gastrointestinal Infection
+Labrador Retriever,0,44.7,Female,Yes,Up to date,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Skin Allergy
+Tibetan Mastiff,4,29.5,Female,Yes,Not up to date,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Skin Allergy
+Great Pyrenees,8,33.2,Female,Yes,Up to date,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,Arthritis
+Beagle,15,10.2,Male,Yes,Not up to date,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Ear Infection
+Dachshund,9,6.1,Male,Yes,Not up to date,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Gastrointestinal Infection
+Australian Shepherd,10,15.1,Female,Yes,Not up to date,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Parvovirus
+Akita,12,37.2,Female,Yes,Up to date,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Gastrointestinal Infection
+Corgi,8,17.6,Male,Yes,Not up to date,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Gastrointestinal Infection
+Australian Shepherd,6,18.2,Male,No,Not up to date,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Gastrointestinal Infection
+Great Pyrenees,9,33.1,Female,No,Up to date,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Respiratory Infection
+Beagle,13,9.2,Male,Yes,Up to date,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Ear Infection
+Bernese Mountain Dog,12,43.0,Male,No,Not up to date,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Skin Allergy
+Border Collie,10,9.4,Female,No,Up to date,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Respiratory Infection
+Chihuahua,7,5.2,Male,Yes,Not up to date,No,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Ear Infection
+Saint Bernard,6,52.5,Male,Yes,Not up to date,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Skin Allergy
+Shetland Sheepdog,14,20.0,Female,No,Not up to date,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Gastrointestinal Infection
+Shetland Sheepdog,4,22.3,Female,Yes,Up to date,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Gastrointestinal Infection
+Great Dane,6,34.1,Male,No,Up to date,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,No,Parvovirus
+Cocker Spaniel,5,13.3,Female,Yes,Not up to date,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Skin Allergy
+Doberman Pinscher,0,37.1,Female,No,Not up to date,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Kennel Cough
+Great Dane,15,54.3,Male,No,Not up to date,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,Respiratory Infection
+Saint Bernard,5,46.7,Male,Yes,Not up to date,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Skin Allergy
