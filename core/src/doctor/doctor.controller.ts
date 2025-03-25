@@ -1,26 +1,26 @@
-import { Body, Controller, Get, Param, Post } from '@nestjs/common';
-import { DoctorService } from './doctor.service';
+import { Body, Controller, Get, Param, Post } from "@nestjs/common";
+import { DoctorService } from "./doctor.service";
 
-@Controller('doctor')
+@Controller("doctor")
 export class DoctorController {
   constructor(private readonly doctorService: DoctorService) {}
 
-  @Post('create')
+  @Post("create")
   create(@Body() data: any) {
     return this.doctorService.create(data);
   }
 
-  @Post('find-nearest-doctor')
+  @Post("find-nearest-doctor")
   findNearestDoctor(@Body() data: any) {
     return this.doctorService.findNearestDoctor(data);
   }
 
-  @Get('find-by-id/' + ':doctorId')
-  findById(@Param('doctorId') doctorId: string) {
+  @Get("find-by-id/" + ":doctorId")
+  findById(@Param("doctorId") doctorId: string) {
     return this.doctorService.findById(doctorId);
   }
 
-  @Post('login')
+  @Post("login")
   login(@Body() data: any) {
     return this.doctorService.loginDoctor(data.email, data.password);
   }

@@ -4,6 +4,7 @@ import { PrismaService } from "src/prisma/prisma.service";
 @Injectable()
 export class DoctorService {
   constructor(private readonly prismaService: PrismaService) {}
+  
   async findNearestDoctor(data: { lat: number; lng: number }) {
     const { lat, lng } = data;
 
@@ -85,4 +86,5 @@ export class DoctorService {
       );
     }
   }
+
 }

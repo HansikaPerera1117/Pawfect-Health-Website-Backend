@@ -77,7 +77,6 @@ export class ChatService {
         contact: true,
       },
     });
-
     return doctors;
   }
 }

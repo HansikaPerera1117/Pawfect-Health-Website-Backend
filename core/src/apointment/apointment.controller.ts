@@ -24,4 +24,5 @@ export class ApointmentController {
   changeStatus(@Body() data) {
     return this.apointmentService.changeStatus(data);
   }
+  
 }

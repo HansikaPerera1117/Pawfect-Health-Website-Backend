@@ -24,10 +24,13 @@ export class UserController {
   create(arg0: { name: string }) {
     return true;
   }
+  
   findOne(arg0: number) {
     return true;
   }
+
   findAll() {
     return true;
   }
+
 }

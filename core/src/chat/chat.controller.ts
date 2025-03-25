@@ -23,10 +23,12 @@ export class ChatController {
   findChat(@Body() data) {
     return this.chatService.findChat(data);
   }
+  
   @Get("find-doctor-chat-list/:doctorId")
   findDoctorChatList(@Param("doctorId") doctorId: string) {
     return this.chatService.findDoctorChatList(doctorId);
   }
+
   @Get("find-user-chat-list/:userId")
   findUserChatList(@Param("userId") userId: string) {
     return this.chatService.findUserChatList(userId);
