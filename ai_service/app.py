@@ -72,7 +72,6 @@ feature_columns = [
     "Exposure to Sick Dogs",
 ]
 
-
 def fetch_illness_description(illness):
     """Fetch illness description from Wikipedia, ensuring medical relevance."""
     search_url = "https://en.wikipedia.org/w/api.php"
@@ -118,7 +117,6 @@ def fetch_illness_description(illness):
     except Exception as e:
         return f"Error fetching data: {str(e)}"
 
-
 @app.route("/predict", methods=["POST"])
 def predict():
     try:
@@ -150,7 +148,6 @@ def predict():
 
     except Exception as e:
         return jsonify({"error": str(e)})
-
 
 # model = tf.keras.models.load_model("dog_emotion_model.h5")
 model_em=""

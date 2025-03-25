@@ -168,6 +168,7 @@ best_model = grid_search.best_estimator_
 # Model Evaluation
 y_pred = best_model.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
+
 print(f"Model Accuracy: {accuracy:.2f}")
  
 # Save the trained model

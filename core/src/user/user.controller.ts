@@ -18,13 +18,15 @@ export class UserController {
   remove(arg0: number) {
     return true;
   }
+  
   update(arg0: number, arg1: { name: string }) {
     return true;
   }
+
   create(arg0: { name: string }) {
     return true;
   }
-  
+
   findOne(arg0: number) {
     return true;
   }
