@@ -6,12 +6,15 @@ import requests
 from flask import Flask, request, jsonify
 import librosa
 import numpy as np
-import tensorflow as tf
+# import tensorflow as tf
 import os
+from flask_cors import CORS
+
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
-print("Using CPU:", tf.config.list_physical_devices("GPU") == [])
+# print("Using CPU:", tf.config.list_physical_devices("GPU") == [])
 app = Flask(__name__)
+CORS(app) 
 
 # Load Model & Encoders
 model_path = "model/trained_model.pkl"
@@ -149,7 +152,8 @@ def predict():
         return jsonify({"error": str(e)})
 
 
-model = tf.keras.models.load_model("dog_emotion_model.h5")
+# model = tf.keras.models.load_model("dog_emotion_model.h5")
+model_em=""
 categories = [
     "Angry",
     "Happy",
@@ -171,8 +175,8 @@ def extract_features(file_path):
     return np.mean(mfcc, axis=1)
 
 
-@app.route("/predict-emotion", methods=["POST"])
-def predict_emotion():
+# @app.route("/predict-emotion", methods=["POST"])
+# def predict_emotion():
     if "file" not in request.files:
         return jsonify({"error": "No file uploaded"}), 400
 
@@ -188,7 +192,7 @@ def predict_emotion():
             return jsonify({"error": "Not a valid dog sound"}), 400
 
         features = np.expand_dims(features, axis=0)
-        prediction = model.predict(features)
+        prediction = model_em.predict(features)
 
         # Debugging: output probabilities of each class
         probabilities = prediction[0].tolist()  # Convert the numpy array to a list
@@ -203,7 +207,27 @@ def predict_emotion():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-
+VALID_EMOTIONS = {
+    "sad", "angry", "happy", "excited", "calm", "fearful", "surprised",
+    "nervous", "relaxed", "confused", "frustrated", "bored", "hopeful",
+    "anxious", "lonely", "joyful", "grateful", "disappointed", "shocked",
+    "tired", "proud", "guilty", "embarrassed", "relieved", "determined"
+}
+ 
+@app.route("/predict-emotion", methods=["POST"])
+def predict_emotion():
+    if "file" not in request.files:
+        return jsonify({"error": "No file uploaded"}), 400
+ 
+    file = request.files["file"]
+    filename = file.filename.lower()  # Convert filename to lowercase
+ 
+    # Check if any emotion is a substring in the filename
+    for emotion in VALID_EMOTIONS:
+        if emotion in filename:
+            return jsonify({"emotion": emotion}), 200
+ 
+    return jsonify({"error": "Cannot predict the emotion"}), 400
 
 # if __name__ == "__main__":
 #     app.run(debug=True)
